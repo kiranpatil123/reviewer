@@ -4,6 +4,7 @@ public class DemoSelectionSort {
 
 	public static void main(String[] args) {
 		System.out.println("selection sort started");
+		System.out.println("selection sort started");
 	}
 
 }
